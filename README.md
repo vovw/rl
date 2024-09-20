@@ -1,7 +1,8 @@
-RL expirements and learnings
+# rl expirements and learnings
 
+### Vanilla Policy Gradient (VPG)
 
-### vanilla policy gradient
-
-[vpg](media/vpg_moving.gif)
+<p align="center">
+  <img src="media/vpg_moving.gif" alt="Vanilla Policy Gradient in Action">
+</p>
 
